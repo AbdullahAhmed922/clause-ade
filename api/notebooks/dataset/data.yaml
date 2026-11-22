@@ -1,0 +1,11 @@
+path: ./dataset
+# path:
+# path: .
+
+train: images/train
+val: images/val
+
+nc: 1
+names:
+  0: name
+  1: pass
